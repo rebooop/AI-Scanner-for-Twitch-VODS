@@ -1,0 +1,5 @@
+# Install the CUDA-enabled CTranslate2 wheel appropriate for your system first;
+# see README.md. This package provides the transcription API.
+faster-whisper>=1.1,<2
+yt-dlp>=2025.1
+

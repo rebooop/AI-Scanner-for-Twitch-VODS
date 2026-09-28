@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Large local inputs and generated processing artifacts.
+input/
+work/
+transcripts/
+windows/
+rankings/
+results/
+
