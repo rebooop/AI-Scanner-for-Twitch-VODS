@@ -4,7 +4,7 @@ This is the transcription foundation for a clip-finding pipeline. It is intentio
 
 ## Step 1: Install prerequisites (Windows)
 
-You already have an NVIDIA RTX 4070 Ti. This project still needs a real Python installation and FFmpeg on your `PATH`.
+This project still needs a real Python installation and FFmpeg on your `PATH`.
 
 1. Install Python 3.11 (64-bit) from [python.org](https://www.python.org/downloads/). During installation, select **Add python.exe to PATH**.
 2. Install FFmpeg and ensure both `ffmpeg` and `ffprobe` are on `PATH`. A convenient option is `winget install Gyan.FFmpeg` in an Administrator PowerShell.
